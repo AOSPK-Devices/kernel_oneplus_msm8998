@@ -1,4 +1,4 @@
-CONFIG_LOCALVERSION="-ecattaneo-kernel-0.4"
+CONFIG_LOCALVERSION="-ecattaneo-kernel-0.5"
 # CONFIG_USELIB is not set
 CONFIG_AUDIT=y
 # CONFIG_AUDITSYSCALL is not set
